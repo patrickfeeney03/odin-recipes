@@ -1,0 +1,12 @@
+img {
+    width: 3000px;
+    height: 500px;
+}
+
+h1 {
+    text-align: center;
+}
+
+h3, h4, ul, li {
+    text-align: right;
+}
