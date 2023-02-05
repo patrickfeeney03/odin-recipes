@@ -1,0 +1,24 @@
+body {
+    background-color: lightcoral;
+}
+
+img {
+    width: 300px;
+    height: auto;
+}
+
+a {
+    color: lightsteelblue;
+    font-size: 28px;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+    text-shadow: 1px 1px 3px lightsteelblue;
+    
+    
+}
+
+h1 {
+    text-align: center;
+    font-weight: 900;
+
+}
